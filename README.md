@@ -1,5 +1,5 @@
 # PolaTrace, a Simulation Library for Polarization Evaluation in Optical Fiber 
-Author: Xiaojun(James) Chen from Inline Photonics Inc.  Email: jchen@inlinephotonics.com
+Author: Xiaojun (James) Chen from Inline Photonics Inc.  Email: jchen@inlinephotonics.com
 
 This open-source Python program was developed  for the book  "Polarization Measurement and Control in Optical Fiber Communication and Sensor Systems."  By X. Steve Yao and Xiaojun(James) Chen. The package includes the following:
 
